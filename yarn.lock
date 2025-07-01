@@ -168,9 +168,9 @@
     minipass "^7.0.4"
 
 "@jridgewell/gen-mapping@^0.3.5":
-  version "0.3.9"
-  resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.3.9.tgz#6651c7afca59e19abd00cd40346d13e225026c83"
-  integrity sha512-xpz6C/vXOegF9VEtlMBlkNNIjHrLhKaFBsO4lmQGr00x5BHp7p+oliR6i7LwIcM5cZU2VjLSwm2R+/zj5IjPWg==
+  version "0.3.11"
+  resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.3.11.tgz#02faf35e82eb08a465704d501f60cd073f8d1715"
+  integrity sha512-C512c1ytBTio4MrpWKlJpyFHT6+qfFL8SZ58zBzJ1OOzUEjHeF1BtjY2fH7n4x/g2OV/KiiMLAivOp1DXmiMMw==
   dependencies:
     "@jridgewell/sourcemap-codec" "^1.5.0"
     "@jridgewell/trace-mapping" "^0.3.24"
@@ -181,14 +181,14 @@
   integrity sha512-bRISgCIjP20/tbWSPWMEi54QVPRZExkuD9lJL+UIxUKtwVJA8wW1Trb1jMs1RFXo1CBTNZ/5hpC9QvmKWdopKw==
 
 "@jridgewell/sourcemap-codec@^1.4.14", "@jridgewell/sourcemap-codec@^1.5.0":
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.5.1.tgz#92bc8eb57aea47c13291476e4d2d246928487720"
-  integrity sha512-mBLKRHc7Ffw/hObYb9+cunuGNjshQk+vZdwZBJoqiysK/mW3Jq0UXosq8aIhMnLevANhR9yoYfdUEOHg6M9y0g==
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.5.3.tgz#2d7bbc63fdfe4e4fa6b3478f651ec3844e284c1b"
+  integrity sha512-AiR5uKpFxP3PjO4R19kQGIMwxyRyPuXmKEEy301V1C0+1rVjS94EZQXf1QKZYN8Q0YM+estSPhmx5JwNftv6nw==
 
 "@jridgewell/trace-mapping@^0.3.24":
-  version "0.3.26"
-  resolved "https://registry.yarnpkg.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.26.tgz#c337086fa5c013466b988141e00b0d67c8091a8e"
-  integrity sha512-Z9rjt4BUVEbLFpw0qjCklVxxf421wrmcbP4w+LmBUxYCyJTYYSclgJD0YsCgGqQCtCIPiz7kjbYYJiAKhjJ3kA==
+  version "0.3.28"
+  resolved "https://registry.yarnpkg.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.28.tgz#655017f73353f1e0eb1a0ecbd5edec01438c5e18"
+  integrity sha512-KNNHHwW3EIp4EDYOvYFGyIFfx36R2dNJYH4knnZlF8T5jdbD5Wx8xmSaQ2gP9URkJ04LGEtlcCtwArKcmFcwKw==
   dependencies:
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
